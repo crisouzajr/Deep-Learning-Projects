@@ -1,4 +1,4 @@
-# Deep_Learning-Project for stock price prevision
+# Deep Learning Project for Stock Price Prediction
 
 ![lstmxgru](https://user-images.githubusercontent.com/73768941/145694691-d9c07433-0456-40a5-a367-5a4f5c207d1e.png)
 
