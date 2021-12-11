@@ -1,4 +1,4 @@
-# Deep_Learning-Project Lung Disease Prediction
+# Deep Learning Project for Lung Disease Prediction
 
 Projeto desenvolvido para previsões de serie temporal com LSTM ( Long Short Term Memory).
 
